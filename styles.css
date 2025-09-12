@@ -98,4 +98,7 @@ ul {
     .print-button-container {
         display: none;
     }
+    .p{
+      text-align: center;  
+    }
 }
